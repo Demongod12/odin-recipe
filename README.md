@@ -1,1 +1,2 @@
-# odin-recipe
+This project is a simple HTML-based recipe webpage. 
+By completing this project, I’ll create a basic webpage to display a recipe, showcasing core HTML tags and elements like headings, lists, images, and links. This project will help me practice HTML structure, layout, and basic content formatting, providing a solid foundation for future web development projects.
